@@ -1,0 +1,41 @@
+{
+    "data":[
+      {
+        "data":{
+            "stringId":1,
+            "text":"Trade"
+        }
+      },
+      {
+        "data":{
+            "stringId":2,
+            "text":"Swap"
+        }
+      },
+      {
+        "data":{
+            "stringId":3,
+            "text":"Liquidity"
+        }
+      },
+      {
+        "data":{
+            "stringId":4,
+            "text":"Farms"
+        }
+      },
+      {
+        "data":{
+            "stringId":5,
+            "text":" PSC Farms V4"
+        }
+      },
+     
+      {
+         "data":{
+             "stringId":23,
+             "text":"index"
+         }
+      }
+    ]
+ }

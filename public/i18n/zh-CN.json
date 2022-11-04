@@ -1,0 +1,41 @@
+{
+   "data":[
+      {
+         "data":{
+             "stringId":1,
+             "text":"交易"
+         }
+      },
+      {
+        "data":{
+            "stringId":2,
+            "text":"交换"
+        }
+      },
+      {
+        "data":{
+            "stringId":3,
+            "text":"流动性"
+        }
+      },
+      {
+         "data":{
+             "stringId":4,
+             "text":"农场"
+         }
+       },
+       {
+         "data":{
+             "stringId":5,
+             "text":" PSC农场V4"
+         }
+       },
+     {
+      
+        "data":{
+            "stringId":23,
+            "text":"首页"
+        }
+     }
+   ]
+}
